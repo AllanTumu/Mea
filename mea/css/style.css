@@ -825,3 +825,32 @@ p {
   }
 }
 /*Core variables and mixins*/
+
+
+.button {
+  align-items: center;
+  border: 1px solid #000;
+  border-top: none;
+  padding-top: 0px;
+  padding-right: 32px;
+  padding-bottom: 25px;
+  padding-left: 32px;
+  margin-bottom: 95px;
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+  
+
+
